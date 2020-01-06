@@ -1,6 +1,6 @@
 ## MAN Pre-interview test
 
-###Algorithms
+### Algorithms
 
 Implement the method `nextNum()` and a minimal but effective set of unit tests. Implement in the language of your choice, Python is preferred, but Java and other languages are completely fine. Make sure your code is exemplary, as if it was going to be shipped as part of a production system.
 
@@ -13,7 +13,7 @@ As a quick check, given Random Numbers are `[-1, 0, 1, 2, 3]` and Probabilities 
 3: 0 times
 
 #### Languages
-#####Python
+##### Python
 You may use `random.random()` which returns a pseudo random number between 0 and 1.
 
 ```python
